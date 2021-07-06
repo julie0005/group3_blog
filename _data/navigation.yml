@@ -1,9 +1,10 @@
 # main links
 main:
   - title: "갑돌이 소개"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /hello/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "갑순이 소개"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
