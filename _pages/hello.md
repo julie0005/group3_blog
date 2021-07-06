@@ -2,5 +2,5 @@
 permalink: /hello/
 ---
 
-# Hello
+# hello
 #### World
