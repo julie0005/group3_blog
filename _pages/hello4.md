@@ -38,3 +38,5 @@ by 신현석 아주대 소프트웨어학과
 아주대 학생이라면 아래의 링크에서 구할 수 있다.👇🏼
 
 [아주대 중앙도서관](https://library.ajou.ac.kr/#/total-search?keyword=1%EB%A7%8C%20%EC%8B%9C%EA%B0%84%EC%9D%98%20%EC%9E%AC%EB%B0%9C%EA%B2%AC%20:%EB%85%B8%EB%A0%A5%EC%9D%80%20%EC%99%9C%20%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EB%B0%B0%EC%8B%A0%ED%95%98%EB%8A%94%EA%B0%80)
+
+g
