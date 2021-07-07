@@ -6,7 +6,7 @@ main:
   - title: "강환희"
     url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "권대휘"
-    url: /hello3/ #https://mmistakes.github.io/minimal-mistakes/about/
+    url: /hello3/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "신현석"
     url: /hello4/
   # - title: "Sample Collections"
