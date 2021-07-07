@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "갑돌이 소개"
+  - title: "김승은"
     url: /hello/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "갑순이 소개"
+  - title: "강환희"
     url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "권대휘"
+    url: /hello3/ #https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "신현석"
+    url: /hello4/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
