@@ -18,8 +18,9 @@ author_profile: true
     * [자기소개](https://julie0005.github.io/group3_blog/hello3/)
   * 신현석
     * 연락처 : gus0674@ajou.ac.kr
-    * [책 소개](https://julie0005.github.io/group3_blog/hello4/)
+    * [책 소개](https://julie0005.github.io/group3_blog/hello4/)  
 <br/>
+
 ![picture](https://data.1freewallpapers.com/detail/code-programming-text-strings-multicolored.jpg)
 
 
