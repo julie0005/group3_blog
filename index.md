@@ -8,7 +8,7 @@ author_profile: true
 
 >  하계 수업 실전코딩을 수강하는 3조의 깃헙 블로그  
 
-![picture](https://cdn4.iconfinder.com/data/icons/development-37/200/Team-coding-2-4096.png)   
+![picture](https://cdn4.iconfinder.com/data/icons/development-37/200/Team-coding-2-4096.png){: width="500" height="500"}   
 
 * 구성원
   * 김승은
