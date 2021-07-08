@@ -10,7 +10,7 @@ by 아주대 소프트웨어학과 신현석
 
 #### 안데르스 에릭슨, 로버트 풀 지음
 
-![10,000 hours of rediscovery](./img1/book.png)
+![10,000 hours of rediscovery](book.png)
 
 **"똑같이 노력하는데 왜 누군가는 더 나은 결과를 얻는가?"**
 
