@@ -5,13 +5,12 @@ author_profile: true
 
 
 ## 3조 프로필
-![picture](https://icons-for-free.com/iconfiles/png/512/coding+html+programming+web+icon-1320184881567336963.png){: width="400" height="400"}  
 
 >  하계 수업 실전코딩을 수강하는 3조의 깃헙 블로그  
 
 <br/>
 
-![picture](https://cdn4.iconfinder.com/data/icons/development-37/200/Team-coding-2-4096.png)  
+![picture](https://cdn4.iconfinder.com/data/icons/development-37/200/Team-coding-2-4096.png)   
 
 <br/>
 
