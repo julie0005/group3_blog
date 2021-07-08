@@ -19,10 +19,11 @@ C / Python도 다룰 수 있습니다.
 #### 취미
 
 - 취미로 주짓수를 하고 있습니다.  
-![jiujitsu](https://github.com/julie0005/group3_blog/blob/master/_pages/img1.jpg "jiujitsu")  
+<img src="img1.jpg">  
 1년 반 동안 했으며 현재 흰띠 3그랄 입니다.  
 
 - 영화 감상을 좋아합니다. 가장 좋아하는 영화는 마블 영화입니다.  
+<img src="img2.jpg">  
 ![movie](https://github.com/julie0005/group3_blog/blob/master/_pages/img2.jpg "movie")  
 마블의 영화는 모두 관람하였고 올해 개봉할 영화들도 매우 기대중입니다!  
 
