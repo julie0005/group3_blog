@@ -11,10 +11,10 @@ permalink: /hello3/
 
 ### 취미 
 
-[롤](https://menu.mt.co.kr/moneyweek/thumb/2021/01/08/06/2021010807598021218_1.jpg)
+![롤](https://menu.mt.co.kr/moneyweek/thumb/2021/01/08/06/2021010807598021218_1.jpg)
 * 게임하기(LOL, 배틀그라운드)
 
-[테넷](https://image.aladin.co.kr/product/22948/32/cover500/0571362737_2.jpg)
+![테넷](https://image.aladin.co.kr/product/22948/32/cover500/0571362737_2.jpg)
 * 영화보기(테넷, 인셉션, 인터스텔라 등 크리스토퍼 놀란 감독님의 영화를 좋아합니다)
 
 * 맛있는거 먹기(곱창, 양꼬치, 초밥을 최근에 많이 찾습니다.)
