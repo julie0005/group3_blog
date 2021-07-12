@@ -37,3 +37,5 @@ by 아주대 소프트웨어학과 신현석
 - 연습을 하는데 발전이 없다면 타고난 재능이 부족해서가 아니다. 올바른 방법으로 연습하고 있지 않기 때문이다. 일단 이것을 이해하면 이제 실력 향상과 발전은 무엇이 **'올바른 방법'**인지를 알아내는 문제가 된다.
 
 아주대 학생이라면 Click[아주대 중앙도서관](https://library.ajou.ac.kr/#/total-search?keyword=1%EB%A7%8C%20%EC%8B%9C%EA%B0%84%EC%9D%98%20%EC%9E%AC%EB%B0%9C%EA%B2%AC%20:%EB%85%B8%EB%A0%A5%EC%9D%80%20%EC%99%9C%20%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EB%B0%B0%EC%8B%A0%ED%95%98%EB%8A%94%EA%B0%80)
+
+jenkins test
