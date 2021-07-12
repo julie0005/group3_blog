@@ -1,43 +1,14 @@
 ---
 layout: single
-title: Maven
 categories: dev
+title: "실전코딩1 계획표"
 ---
 
-# MAVEN
+## 실전코딩 계획표
 
-## 1. MAVEN이란 무엇인가?(What is MAVEN?   )
+![그림](https://github.com/julie0005/group3_blog/blob/master/_posts/schedule.JPG?raw=true)  
+본 과목에서는 산업체의 현업 소프트웨어 개발자가 현장 실무환경에서 라이브코딩 형태로 강의를 진행한다. 특히 대학
+정규 과정에서 다루지 않지만 현업 개발 현장에서 활용되는 Agile 협업 프로세스, 협업 도구, Jenkins, SonarQube,
+Maven, TDD, 리팩토링 등을 교육하고 인턴쉽 수행 또는 취업 시 도움이 될 수 있도록 학생들이 직접 실습을 수행하게 된다.  
+[출처 | 아주대학교 소프트웨어학과 요람]
 
-![maven](https://miro.medium.com/max/743/1*M7gYkSDwC5ny9SxxBwzozA.png)
-~~~
-Apache Maven은 Apache Ant의 대안으로 만들어진 자바용 프로젝트 관리도구이다.
-
-Maven은 Apache License로 배포된 오픈 소스 소프트웨어이다.
-~~~
-
-* Maven은 빌드 작업을 자동화하기 위한 빌드 도구입니다.
-
-* 프로젝트의 전체적인 라이프 사이클을 관리하는 도구입니다.
-
- * 필요한 라이브러리를 pom.xml에 정의해 놓게 되면 네트워크를 통해 필요한 라이브러리들을 자동으로 다운받을 수 있게 도와줍니다.
-
-## 2. Maven의 LifeCycle
-
-Maven은 프레임워크이기 때문에 동작 방식이 정해져 있는데 이때 미리 정의된 build 들의 순서를 LifeCycle이라고 합니다.
-
-Maven은 3가지의 built-in lifecycles를 제공합니다.
-
-* Default: 일반적인 빌드 프로세스를 위한 모델이다.
-	 * compile -> test -> package -> install -> deploy의 과정을 거친다.
-
-* Clean: 빌드할 때 생성됐던 output을 지운다.
-	* output인 target 폴더를 삭제한다.
-
-* Site: 프로젝트 문서와 사이트 작성을 수행한다.
-	* site -> site-deploy
-  
-|                      |Phase 실행                          |
-|----------------------|-------------------------------|
-|Default |`mvn complile`  `mvn test`  `mvn package`   `mvn install`  `mvn deploy`|
-|Clean |`mvn clean`|
-|Site  |`mvn site`|
